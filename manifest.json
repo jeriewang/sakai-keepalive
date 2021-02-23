@@ -1,0 +1,14 @@
+{
+"manifest_version": 2,
+"name": "Sakai Keepalive",
+"version": "1.0.0",
+"author": "Jerie Wang",
+"description": "Keeps sakai.claremont.edu portal pages from timing out",
+"content_scripts":[{
+    "matches":["https://sakai.claremont.edu/portal/*"],
+    "js": ["keepalive.js"]
+}],
+"icons": { "16": "icon16.png",
+           "48": "icon48.png",
+          "128": "icon128.png" }
+}
