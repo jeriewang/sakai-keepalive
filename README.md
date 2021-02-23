@@ -18,3 +18,5 @@ which basically clicks on the invisible "keep my session alive" button (before i
 ## Installation
 
 To install it, download the `sakai_keepalive.zip` file from this repository. Then, navigate to `chrome://extensions`, flip on the switch for developer mode, and drag the downloaded zip file into the window. And then you are done! No more annoying pop-up windows or asking you to log back in when you really need to get an assignment submitted before 11:59:59 PM. 
+
+Alternatively, you can install it from [Chrome Store](https://chrome.google.com/webstore/detail/sakai-keepalive/nphojjhgnickcliigohhbnmldidgakik).
