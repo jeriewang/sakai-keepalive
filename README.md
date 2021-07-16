@@ -15,4 +15,6 @@ console.log("Sakai keepalive extension loaded")
 ```
 which is the same as clicking on the "keep my session alive" button (but before it shows up) every 15 minutes. 
 
+# Download and Installation
 
+Please refer to the [release page](https://github.com/mia1024/sakai-keepalive/releases/tag/v1.0.0).
