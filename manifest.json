@@ -1,8 +1,8 @@
 {
 "manifest_version": 2,
 "name": "Sakai Keepalive",
-"version": "1.0.0",
-"author": "Jerie Wang",
+"version": "1.0.1",
+"author": "Mia Wang",
 "description": "Keeps sakai.claremont.edu portal pages from timing out",
 "content_scripts":[{
     "matches":["https://sakai.claremont.edu/portal/*"],
